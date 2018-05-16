@@ -1,7 +1,7 @@
 # 게임개발자들을 위한 Slack 채팅방 GameDevHipster(임시)
 게임개발에 관심있으신 분들을 위한 Slack 채팅방을 개설했습니다.
 
-초대장은 [여기](https://festi.kr/zlack/team/T3KQA905B/32/)에서 받으시면 됩니다.
+초대장은 [여기](https://join.slack.com/t/game-dev-hipster-kr/shared_invite/enQtMzY0Nzk5NTgwMzIyLTk2NTIxZjhhMjU2OGFlYjExZTBmYTBhNzYzM2FiMDhhYjExNWZkN2I1NWMzMDdmZWM2ODcxODMwNzI5NDczM2U)에서 받으시면 됩니다.
 
 ## Slack 채팅방을 개설하게 된 계기...?
 슬랙 채팅방을 만들게 된 계기는 사실 하나 밖에 없습니다.
@@ -54,4 +54,4 @@ Github, Jenkins, 이외 Webhook 연동 기능이 있고, API도 열려있어서 
 
 ## 개설자에 대한 소개..?
 저에 대해서 간단하게 소개하자면, 저는 일단 웹개발자(라고 하기에도 기록으로 남은 경력이 없지만) 출신입니다.
-Rails로 웹개발을 해오다가, 게임개발 동아리에서 임원으로 활동하게 되면서 방학 프로젝트의 일환으로 Unity로 쯔꾸르류 RPG를 개발하고 있구요. 굳이 웹 백엔드 개발이 아니더라도, 게임서버 개발도 막연하게나마 관심있습니다.
+Rails로 웹개발을 해오다가, 게임개발 동아리에서 임원으로 활동하게 되면서 방학 프로젝트의 일환으로 Unity로 쯔꾸르류 RPG를 개발한 적이 있긴 했습니다. 앞으로도 게임개발을 하게 될지는 불확실합니다만, 아마 웹 개발 쪽으로 가게 될 것 같습니다(....). 굳이 웹 백엔드 개발이 아니더라도, 게임서버 개발도 막연하게나마 관심있습니다.
